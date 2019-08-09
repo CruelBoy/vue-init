@@ -1,6 +1,6 @@
-# m-vuex
+# my-project
 
-> A Vue.js project
+> vue init project
 
 ## Build Setup
 
